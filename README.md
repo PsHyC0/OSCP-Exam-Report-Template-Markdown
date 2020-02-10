@@ -1,3 +1,5 @@
+(Just learning Git. Probably will remove this fork at some point. Just playing.)
+
 # OSCP Exam Report Template in **Markdown**
 
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat-square.svg)](https://inventory.rawsec.ml/tools.html#OSCP%20Exam%20Report%20Template%20in%20Markdown)
